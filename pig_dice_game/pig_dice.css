@@ -1,0 +1,85 @@
+body{
+  background-color: #D8BFD8;
+}
+
+#wins{
+  margin-top: 3%;
+  text-align: center;
+  font-family: cursive, sans-serif;
+  text-shadow: 3px 0 #DA0463;
+  opacity: 1.0;
+
+}
+.turn{
+  text-align: center;
+  font-family: "Arvo", cursive;
+  text-shadow: 3px 0 #808080;
+  opacity: 0.8;
+}
+.play{
+  float: right;
+  margin-right: 5em;
+  width: 100px;
+}
+
+.rules{
+  float: left;
+  color: black;
+}
+
+.player1{
+  font-family: 'Montserrat',sans-serif;
+  display: inline;
+
+}
+
+.player2{
+font-family: 'Montserrat',sans-serif;
+  float: right;
+  margin-right: 100px;
+}
+
+.player{
+  width: 70%;
+  margin : 10% 20%;
+}
+
+.action{
+  text-align: center;
+  margin-top: 9%;
+
+}
+.click1{
+  display: inline;
+  margin-left: 300px;
+}
+
+.value{
+  background-color: #B22222;
+  color: #F0FFF0;
+  border: #1110 1px solid;
+  padding: 8px;
+  font-size: 20px;
+  text-align: center;
+  margin-left: 530px;
+}
+
+.click{
+  width: 60px;
+  height: 45px;
+
+}
+
+.hold{
+  display: inline;
+  margin-left: 5em;
+  width: 100px;
+}
+
+.space{
+  margin-left: 2.5em;
+}
+.current_value{
+float: right;
+margin-right: 6em;
+}
